@@ -1,5 +1,5 @@
 public class ReviewMe {
-public void sayHello(){
-int Bad_Variable = 10;
-System.out.println("Loi");
-}}
+	public void sayHello() {
+		System.out.println("Hello World");
+	}
+}
